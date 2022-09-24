@@ -1,25 +1,50 @@
+<!-- This content will not appear in the rendered Markdown -->
+
 # Title
-- title
+title
 
 # Requirements
-1. requirements
+<details><summary>1. requirements</summary>
+<p>nothing</p>
+</details>
+
 
 # Install
-No Installation Required. Just Git clone or direct download
+<sup> No Installation Required.  </sup>
+<sub> Just Git clone or direct download </sub>
+
 
 ## Usage
 
-## How it works?
-- Magic
+## **How it works?**
+> Magic
 
 ## Notes
 - notes
 
 ## Dev Notes:
-- dev notes
+`dev notes`
+
+``` C#
+{
+  "dev":"note"
+}
+```
+
 
 ## TODO
-- todo
+- [x] todo1 [^1]
+  - [ ] todo2
+
+
+---
 
 ## Sources
 - sources
+
+a  | b
+--- | ---
+1  | 2
+
+
+[^1]: Todo.
