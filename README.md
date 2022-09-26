@@ -20,6 +20,11 @@ title
 > Magic
 
 ## Notes
+- https://mermaid-js.github.io/mermaid-live-editor/
+```mermaid
+graph TD
+    A[To] -->|do| B(This)
+```
 - notes
 
 ## Dev Notes:
@@ -45,6 +50,8 @@ title
 a  | b
 --- | ---
 1  | 2
+
+
 
 
 [^1]: Todo.
